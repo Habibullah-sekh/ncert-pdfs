@@ -1,0 +1,53 @@
+{
+  "subject": "botany",
+  "chapterTitle": "1. The Living World",
+  "chapterNumber": 1,
+  "titleSlug": "1-the-living-world",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981352372_qv854h.svg",
+      "fileName": "1760981352372_qv854h.svg"
+    },
+    {
+      "page": 2,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981354897_hmb7by.svg",
+      "fileName": "1760981354897_hmb7by.svg"
+    },
+    {
+      "page": 3,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981357221_j5uo8f.svg",
+      "fileName": "1760981357221_j5uo8f.svg"
+    },
+    {
+      "page": 4,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981358504_u54kl6.svg",
+      "fileName": "1760981358504_u54kl6.svg"
+    },
+    {
+      "page": 5,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981360185_f693ij.svg",
+      "fileName": "1760981360185_f693ij.svg"
+    },
+    {
+      "page": 6,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981362008_7iseiy.svg",
+      "fileName": "1760981362008_7iseiy.svg"
+    },
+    {
+      "page": 7,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981363775_l5ap60.svg",
+      "fileName": "1760981363775_l5ap60.svg"
+    },
+    {
+      "page": 8,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981365267_d80sm2.svg",
+      "fileName": "1760981365267_d80sm2.svg"
+    },
+    {
+      "page": 9,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/ncert-pdfs@main/ncert/svgs/1760981367222_9y6egx.svg",
+      "fileName": "1760981367222_9y6egx.svg"
+    }
+  ]
+}
