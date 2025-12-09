@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 249.7979 143.7339)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-249.7979, -143.7339)" d="M 215.9671 79.0886 Q 215.9641 79.0916 215.4647 79.0916 Q 214.9653 79.0916 212.4683 84.0825 Q 209.9713 89.0734 207.4744 101.5506 Q 204.9774 114.0278 204.9774 133.4923 Q 204.9774 152.9567 205.4768 169.4267 Q 205.9762 185.8966 211.9689 194.8802 Q 217.9616 203.8638 225.4525 206.3592 Q 232.9434 208.8547 243.4306 207.3574 Q 253.9179 205.8601 264.9045 196.3775 Q 275.8911 186.8948 284.3808 175.4157 Q 292.8705 163.9367 293.8693 155.4522 Q 294.868 146.9677 293.8693 141.4777 Q 292.8705 135.9877 290.3735 134.4905 Q 287.8766 132.9932 286.3784 133.4923 Q 284.8802 133.9914 282.3832 140.9786 Q 279.8863 147.9659 277.8887 157.4485 Q 275.8911 166.9312 275.8911 177.4121 Q 275.8911 187.8929 275.8911 191.8857 Q 275.8911 195.8784 277.8887 197.3756 Q 279.8863 198.8729 281.3845 198.8729 Q 282.8826 198.8729 284.8802 198.3738 Q 286.8778 197.8747 286.8778 196.8765 Q 286.8778 195.8784 286.8778 192.3847 L 286.8778 188.8881" stroke-linecap="round" />
+</g>
+</svg>
