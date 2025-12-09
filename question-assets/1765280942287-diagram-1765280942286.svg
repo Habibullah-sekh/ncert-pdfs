@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 205.4768 117.0224)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-205.4768, -117.0224)" d="M 160.0291 73.0996 Q 160.0321 73.1026 160.0321 78.5926 Q 160.0321 84.0825 162.0297 94.5634 Q 164.0273 105.0442 166.0248 113.0297 Q 168.0224 121.0151 171.5181 127.5032 Q 175.0139 133.9914 177.5108 138.9823 Q 180.0078 143.9732 182.0054 146.4686 Q 184.0029 148.964 184.5023 148.964 Q 185.0017 148.964 185.5011 148.964 Q 186.0005 148.964 187.9981 148.964 Q 189.9957 148.964 194.4902 146.9677 Q 198.9847 144.9713 204.9774 139.4814 Q 210.9701 133.9914 215.9641 128.0023 Q 220.958 122.0133 223.9543 113.5288 Q 226.9507 105.0442 226.9507 104.0461 Q 226.9507 103.0479 227.4501 102.5488 Q 227.9495 102.0497 228.9483 103.0479 Q 229.947 104.0461 231.4452 107.0406 Q 232.9434 110.0351 234.941 114.5269 Q 236.9385 119.0187 239.9349 126.006 Q 242.9312 132.9932 244.4294 139.9804 Q 245.9276 146.9677 248.4246 153.9549 L 250.9245 160.9452" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 166.0248 170.9239)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-166.0248, -170.9239)" d="M 125.0716 134.9866 Q 125.0746 134.9896 125.574 135.4886 Q 126.0734 135.9877 129.5692 138.9823 Q 133.0649 141.9768 135.5619 145.4704 Q 138.0589 148.964 145.0503 155.9513 Q 152.0418 162.9385 159.5327 169.9258 Q 167.0236 176.913 174.0151 182.403 Q 181.0066 187.8929 186.0005 191.8857 Q 190.9944 195.8784 195.489 199.372 Q 199.9835 202.8656 203.4792 204.862 L 206.978 206.8613" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 301.3587 128.0023)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-301.3587, -128.0023)" d="M 297.8614 61.1215 Q 297.8644 61.1245 298.3638 64.119 Q 298.8632 67.1135 300.8608 77.0953 Q 302.8583 87.0771 303.8571 98.5561 Q 304.8559 110.0351 304.8559 123.0114 Q 304.8559 135.9877 304.8559 144.4722 Q 304.8559 152.9567 304.8559 160.4431 Q 304.8559 167.9294 304.8559 173.4194 Q 304.8559 178.9094 304.8559 182.9021 Q 304.8559 186.8948 304.8559 190.8875 L 304.8559 194.8832" stroke-linecap="round" />
+</g>
+</svg>
