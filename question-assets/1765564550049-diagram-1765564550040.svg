@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="270.6883094122796" height="254.688106560559" viewBox="140.21507453918457 56.885986328125 270.6883094122796 254.688106560559" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"/>
+<g transform="matrix(1 0 0 1 200.9939 175.0891)">
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" transform=" translate(-200.9939, -175.0891)" d="M 201.6351 267.8308 L 200.9559 82.3474 M 200.9559 82.3474 L 206.9939 92.7177 M 200.9559 82.3474 L 194.994 92.7616" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 296.9814 263.5584)">
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" transform=" translate(-296.9814, -263.5584)" d="M 201.6351 267.8308 L 390.4706 263.5735 M 390.4706 263.5735 L 380.2162 269.8062 M 390.4706 263.5735 L 379.9457 257.8092" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 285.5216 201.7909)">
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" transform=" translate(-285.5216, -201.7909)" d="M 201.0914 267.6953 Q 264.9412 120.2353 369.9518 135.8865" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 287.7413 134.0744)">
+<line style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: 3 2; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x1="101.41590118408203" y1="-1.358917236328125" x2="-101.41590118408203" y2="1.358917236328125"/>
+</g>
+<g transform="matrix(2.2327 0 0 1.7603 173.5747 133.0144)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,255); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 11.7351%; white-space: pre;"><tspan x="-6.3672" y="6.2828">V</tspan></text>
+</g>
+<g transform="matrix(1.8833 0 0 1.4759 244.1824 285.028)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 9.8395%; white-space: pre;"><tspan x="-6.2744" y="6.2828">K</tspan></text>
+</g>
+</svg>
