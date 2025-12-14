@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="833" height="400" viewBox="0 0 833 400" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 233.5577 179.8437)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-233.5577, -179.8437)" d="M 150.595 124.0066 Q 150.598 124.0096 150.598 126.5051 Q 150.598 129.0005 153.0968 136.4868 Q 155.5956 143.9732 158.0944 152.9568 Q 160.5932 161.9404 164.0915 168.9276 Q 167.5898 175.9148 170.0885 181.9039 Q 172.5873 187.893 175.5859 194.3811 Q 178.5844 200.8693 182.0827 206.3592 Q 185.581 211.8492 188.0798 215.3428 Q 190.5786 218.8364 194.5766 221.3319 Q 198.5747 223.8273 203.5722 226.8219 Q 208.5698 229.8164 215.0667 231.3137 Q 221.5635 232.8109 228.0603 233.8091 Q 234.5572 234.8073 242.5533 235.3064 Q 250.5494 235.8055 257.546 235.3064 Q 264.5426 234.8073 272.0389 231.3137 Q 279.5353 227.82 285.0326 224.8255 Q 290.5299 221.831 303.5236 210.3519 L 316.5203 198.8699" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 376.9879 137.9826)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-376.9879, -137.9826)" d="M 348.4987 118.0176 Q 348.5017 118.0206 349.5012 120.0169 Q 350.5008 122.0133 352.4998 127.0042 Q 354.4988 131.995 356.4978 135.9878 Q 358.4969 139.9805 359.9961 143.4741 Q 361.4954 146.9677 362.9947 148.465 Q 364.494 149.9622 364.494 151.4595 Q 364.494 152.9568 364.9937 153.4559 Q 365.4935 153.9549 365.9932 154.454 Q 366.493 154.9531 367.4925 155.9513 Q 368.492 156.9495 369.4915 157.4486 Q 370.491 157.9476 370.9908 157.9476 Q 371.4905 157.9476 372.9898 157.9476 Q 374.4891 157.9476 376.4881 157.9476 Q 378.4871 157.9476 379.4867 157.4486 Q 380.4862 156.9495 382.4852 155.9513 Q 384.4842 154.9531 387.4828 153.4559 Q 390.4813 151.9586 391.4808 150.9604 Q 392.4803 149.9622 394.4794 148.465 Q 396.4784 146.9677 400.9762 143.9732 L 405.477 140.9756" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 412.4706 40.6618)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x1="-326.8409785306096" y1="-25.4535155745453" x2="326.8409785306096" y2="25.4535155745453" />
+</g>
+<g transform="matrix(1 0 0 1 481.9368 142.4672)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  transform=" translate(-481.9368, -142.4672)" d="M 155.5956 79.0917 L 808.278 201.8674 M 808.278 201.8674 L 796.9557 205.8428 M 808.278 201.8674 L 799.1741 194.0497" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 307.1109 284.5607)"  >
+<ellipse style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" rx="188.99638412439558" ry="188.99638412439558" />
+</g>
+<g transform="matrix(1 0 0 1 428.4636 189.892)"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  x="-139.4321605658105" y="-72.367838398217" rx="0" ry="0" width="278.864321131621" height="144.735676796434" />
+</g>
+</svg>
