@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="206.72595265495332" height="185.70376188858694" viewBox="110.95450019836426 40 206.72595265495332 185.70376188858694" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 144.0742 127.5422)">
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" transform=" translate(-144.0742, -127.5422)" d="M 146.5561 200.4448 L 143.8837 54.6396 M 143.8837 54.6396 L 150.0732 64.9203 M 143.8837 54.6396 L 138.0752 65.1402" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 290.7307 193.7863)">
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x1="0" y1="0" x2="0" y2="0"/>
+</g>
+<g transform="matrix(1 0 0 1 218.7994 194.3534)">
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" transform=" translate(-218.7994, -194.3534)" d="M 146.5561 200.4448 L 289.2307 192.2863 M 289.2307 192.2863 L 279.1979 198.8698 M 289.2307 192.2863 L 278.5128 186.8894" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 178.6025 137.8922)">
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x1="32.046417236328125" y1="-62.5526123046875" x2="-32.046417236328125" y2="62.5526123046875"/>
+</g>
+<g transform="matrix(1 0 0 1 198.2378 151.0278)">
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x1="51.6817626953125" y1="-49.41705322265625" x2="-51.6817626953125" y2="49.41705322265625"/>
+</g>
+<g transform="matrix(1 0 0 1 213.0041 170.55)">
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x1="66.44807434082031" y1="-29.894775390625" x2="-66.44807434082031" y2="29.894775390625"/>
+</g>
+<g transform="matrix(-0.0165 -0.9999 0.9999 -0.0165 129.521 133.4658)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 6.6667%; white-space: pre;"><tspan x="-56.4893" y="6.2828">Temperature</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 233.001 209.906)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 6.6667%; white-space: pre;"><tspan x="-22.4707" y="6.2828">Time</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 222.7155 67.1212)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 6.6667%; white-space: pre;"><tspan x="-6.5234" y="6.2828">A</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 262.8853 99.5021)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 6.6667%; white-space: pre;"><tspan x="-6.2305" y="6.2828">B</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 290.4178 139.9447)" style="">
+		<text xml:space="preserve" font-family="Arial, sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; text-decoration-thickness: 6.6667%; white-space: pre;"><tspan x="-6.5088" y="6.2828">C</tspan></text>
+</g>
+</svg>
